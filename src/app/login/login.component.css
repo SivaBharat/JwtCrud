@@ -1,0 +1,21 @@
+.top{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.loginform {    
+    width: 500px;     
+    margin: 0 auto; 
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); 
+    border-radius: 5px; 
+  }
+  .login{
+color: rgb(183, 9, 9);
+  }
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+  }

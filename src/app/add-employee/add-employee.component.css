@@ -1,0 +1,39 @@
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .input-group {
+    margin-bottom: 15px;
+  }
+  
+  input.form-control {
+    width: 80%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button.btn-primary {
+    display: block;
+    margin-top: 10px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+ 
+  .text-danger {
+    color: #dc3545;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
